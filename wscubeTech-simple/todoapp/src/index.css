@@ -1,4 +1,6 @@
-*,
+/* this file contains global css for the project
+
+*, */
 *::before,
 *::after {
   margin: 0;
